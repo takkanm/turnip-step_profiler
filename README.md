@@ -1,4 +1,5 @@
 # Turnip::StepProfiler
+[![Build Status](https://travis-ci.org/takkanm/turnip-step_profiler.svg?branch=master)](https://travis-ci.org/takkanm/turnip-step_profiler)
 
 Tunip::StepProfiler is profiler for trunip steps.
 This shows slowest steps.
